@@ -1,0 +1,26 @@
+<html>
+<head>
+<script>
+function display()
+{
+var work= parseInt(document.getElementById("t1").value);
+var time= parseInt(document.getElementById("t2").value);
+var result=work*time;
+var r=document.getElementById("res");
+r.innerText=result;
+}
+</script>
+</head>
+<body>
+<h1 align=center > mkpits solutions </h1>
+<br>
+<form>
+work: <input type =text name="t1" id="t1" /> <br><br>
+time: <input type =text name="t2" id="t2" /> <br><br>
+<input type=button value="call display function" onclick="display();" />
+<br><br>
+Power: <span id="res" > </span>
+</form>
+</body>
+</html>
+
