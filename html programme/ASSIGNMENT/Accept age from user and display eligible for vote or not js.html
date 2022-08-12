@@ -1,0 +1,19 @@
+<html>
+<script>
+function display()
+{
+var a=document.getElementById("s1").value;
+if(a>18)
+{
+document.getElementById("pop").innerText="he is eligible for voting";
+}
+else
+{
+document.getElementById("pop").innerText="he is not eligible for voting";
+}
+}
+</script>
+enter age:<input type="text" id="s1" name="s1">
+<input type="button" value="ok" onclick="display();">
+<span id="pop"></span>
+</html>
