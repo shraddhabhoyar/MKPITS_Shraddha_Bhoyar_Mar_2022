@@ -1,0 +1,22 @@
+<html>
+<script>
+function display()
+{
+var a=document.getElementById("t1").value;
+var b=document.getElementById("t2").value;
+if(a==b)
+{
+document.getElementById("res").innerText="a is equal to b";
+}
+else
+{
+document.getElementById("res").innerText="a is not equal to b";
+}
+}
+</script>
+enter number 1:<input type="text" id="t1" name="t1">
+enter number 2:<input type="text" id="t2" name="t2">
+<br>
+<input type="button" value="ok" onclick="display();">
+<span id="res"></span>
+</html> 
