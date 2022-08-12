@@ -1,0 +1,31 @@
+<html>
+<head>
+<script>
+function display()
+{
+var hra= parseInt(document.getElementById("t1").value);
+var da= parseInt(document.getElementById("t2").value);
+var basic= parseInt(document.getElementById("t3").value);
+hra=basic*23/100;
+da=basic*43/100;
+var result=hra+da+basic;
+var r=document.getElementById("res");
+r.innerText=result;
+}
+</script>
+</head>
+<body>
+<h1 align=center > mkpits solutions </h1>
+<br>
+<form>
+enter name:<input type="text" name="name" >
+enter hra : <input type =text name="t1" id="t1" /> <br><br>
+enter da: <input type =text name="t2" id="t2" /> <br><br>
+enter basic: <input type =text name="t3" id="t3" /> <br><br>
+<input type="button" value="click" onclick="display();" />
+<br><br>
+result : <span id="res" > </span>
+</form>
+</body>
+</html>
+
