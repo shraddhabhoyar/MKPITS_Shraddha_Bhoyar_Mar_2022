@@ -1,0 +1,27 @@
+<html>
+<script type="text/javascript">
+function display()
+{
+var a=document.getElementById("t1").value;
+var b=document.getElementById("t2").value;
+var c=document.getElementById("t3").value;
+if(a<b && a<c)
+{
+document.getElementById("s1").innerText="a is smallest number";
+}
+else if(b<a && b<c)
+{
+document.getElementById("s1").innerText="b is smallest number";
+}
+else{
+document.getElementById("s1").innerText="c is a smallest number";
+}
+}
+</script>
+enter number 1:<input type="text" id="t1" name="t1">
+enter number2: <input type="text" id="t2" name="t2">
+enter number 3:<input type="text" id="t3" name="t3">
+<br>
+<input type="button" value="ok" onclick="display();">
+result:<span id="s1"></span>
+</html>
