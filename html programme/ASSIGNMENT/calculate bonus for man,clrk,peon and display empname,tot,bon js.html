@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function display()
+        {
+        
+            var a=parseInt(document.getElementById("sal").value);
+            
+            var b = document.getElementById("des").value;
+
+
+            if(b=="manager")
+            {
+                result=a+5000;
+                
+            }
+            else if(b=="clerk")
+            {
+                result=a+2000;
+            }
+            else if(b=="peon")
+            {
+                result=a+1000;
+            }
+            else{
+                document.write
+            }
+            document.getElementById("r1").innerHTML = result;
+
+        }
+
+    </script>
+    <style>
+        form{
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <fieldset>
+        <legend>Enter Your Details</legend>
+
+        <h1 align="center">Calculate Sallary</h1><hr>
+        <form align="center" >
+            Enter Your Name : <input type="text" name="name" id="name"><br><br>
+            Enter Your Basic Sallary : <input type="text" name="name" id="sal"><br><br>
+            Enter Your Designation: <input type="text" name="name" id="des"><br><br>
+
+            <input type=button value="result" onclick="display();" /><br><br>
+            Total Sallary : <span id="r1"></span>
+
+        </form>
+        
+
+    </fieldset>
+    
+</body>
+</html>
