@@ -1,0 +1,18 @@
+<script>
+function getresult(m1,m2,m3)
+{
+var total=parseInt(m1)+parseInt(m2)+parseInt(m3);
+var per=(total/300)*100;
+document.getElementById("t").innerText=total;
+document.getElementById("per").innerText=per;
+}
+</script>
+<form name="f1">
+enter marks 1:<input type="text" name="t1">
+enter marks 2:<input type="text" name="t2">
+enter marks 3:<input type="text" name="t3">
+
+<input type="button" value="click me" onclick="getresult(document.f1.t1.value,document.f1.t1.value,document.f1.t1.value);">
+total:<span id="t"></span>
+percentage:<span id="per"></span>
+</form>
