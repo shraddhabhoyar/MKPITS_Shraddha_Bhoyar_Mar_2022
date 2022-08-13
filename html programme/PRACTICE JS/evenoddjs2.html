@@ -1,0 +1,28 @@
+<html>
+<script>
+function display()
+{
+var a,result;
+var a=parseFloat(document.f1.n1.value);
+if(a%2==0)
+{
+document.getElementById("abs").innerHTML="NUMBER IS EVEN";
+}
+else
+{
+document.getElementById("abs").innerHTML="NUMBER IS ODD";
+}
+}
+</script>
+<body>
+<form name="f1" width=50%>
+<fieldset>
+<legend>calculation</legend>
+enter number:<input type="text" name="n1">
+<input type="button" value="ok" onclick="display();">
+result:<span id="abs"></span>
+</fieldset>
+</form>
+</body>
+</html>
+
