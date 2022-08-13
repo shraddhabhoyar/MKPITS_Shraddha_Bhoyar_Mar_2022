@@ -1,0 +1,58 @@
+<html>
+<script>
+function display()
+{
+ var a=parseInt(document.f1.t1.value);
+ var result;
+ 
+ switch(a)
+ {
+  case 1:
+  result="monday";
+  break;
+  
+  case 2:
+  result="tuesday";
+  break
+  
+  case 3:
+  result="wednesday";
+  break
+  
+  case 4:
+  result="thursday";
+  break
+  
+  
+  case 5:
+  result="friday";
+  break
+  
+  
+  case 6:
+  result="satday";
+  break
+  
+  default:
+  result="invalid day";
+  break;
+  
+ }
+ 
+ document.getElementById("res").innerText=result;
+ }
+ 
+</script>
+<body>
+<form name="f1" style=50%>
+<fieldset>
+<legend>calculation</legend><br><br>
+
+enter day number:<input type="text" id="t1" name="t1">
+<input type="button" value="ok" onclick="display();">
+
+result:<span id="res" ></span>
+</fieldset>
+</form>
+</body>
+</html>
