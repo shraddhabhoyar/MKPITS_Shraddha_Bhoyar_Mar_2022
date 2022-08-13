@@ -1,0 +1,26 @@
+<html>
+<script type="text/javascript">
+function chk()
+{
+var a,result;
+var a=document.getElementById("s1").value;
+if(a>20)
+{
+document.getElementById("asp").innerHTML="value is greater than 20";
+}
+else
+{
+document.getElementById("asp").innerHTML="value is less than 20";
+}
+}
+</script>
+<body>
+<form>
+enter number:<input type="text" id="s1" name="s1">
+<input type="button" value="ok" onclick="chk();">
+<br>
+<br>
+result:<span id="asp"></span>
+</form>
+</body>
+</html>
