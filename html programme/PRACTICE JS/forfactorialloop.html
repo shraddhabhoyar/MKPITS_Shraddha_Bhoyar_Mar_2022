@@ -1,0 +1,21 @@
+<html>
+<script>
+function display()
+{
+var num,fact=1;
+var num=parseInt(document.getElementById("t1").value);
+for(i=num;i>0;i--)
+{
+fact=fact*i;
+}
+
+document.getElementById("res").innerHTML=fact;
+}
+</script>
+<body>
+enter number:<input type="text" id="t1" name="t1">
+<input type="button" value="ok" onclick="display();">
+
+result=<span id="res"></span>
+</body>
+</html>
