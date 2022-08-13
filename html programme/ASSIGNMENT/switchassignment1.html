@@ -1,0 +1,30 @@
+<html>
+<script>
+function display()
+{
+var ch;
+ch=document.getElementById("letter").value;
+
+switch(ch)
+{
+case 'a':
+case 'e':
+case 'i':
+case 'o':
+case 'u':
+document.getElementById("res").innerHTML="vowel ch";
+break;
+default:document.getElementById("res").innerHTML="vowel not";
+break;
+}
+}
+
+
+
+</script>
+<body>
+enter character:<input type="text" id="letter" name="letter">
+<input type="button" value="ok" onclick="display();">
+result:<span id="res"></span>
+</body>
+</html>
