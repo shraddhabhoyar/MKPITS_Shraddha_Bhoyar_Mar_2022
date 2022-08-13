@@ -1,0 +1,24 @@
+<html>
+<script type="text/javascript">
+function display()
+{
+var a,result;
+var a=document.getElementById("s1").value;
+if(a%2==0)
+{
+document.getElementById("abs").innerHTML="value is even";
+}
+else
+{
+document.getElementById("abs").innerHTML="value is odd";
+}
+}
+</script>
+<body>
+<form>
+enter number:<input type="text" id="s1" name="s1">
+<input type="button" value="ok" onclick="display();">
+result:<span id="abs"></span>
+</form>
+</body>
+</html>
