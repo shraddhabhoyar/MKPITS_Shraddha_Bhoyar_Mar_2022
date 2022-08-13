@@ -1,0 +1,39 @@
+<html>
+<script>
+function display()
+{
+var a=parseInt(document.getElementById("t1").value);
+var b=parseInt(document.getElementById("t2").value);
+var c=document.getElementById("t3").value;
+var result=0;
+switch(c)
+{
+case '+':
+result=a+b;
+break;
+
+case '-':
+result=a-b;
+break;
+
+case'*':
+result=a*b;
+break;
+
+default:
+result=("invalid operatior")
+break;
+}
+
+document.getElementById("tot").innerText=result;
+}
+</script>
+<body>
+ENTER NUMBER 1:<input type="text" id="t1" name="t1">
+ENTER NUMBER 2: <input type="text" id="t2" name="t2">
+OPERATOR(+,-,*): <input type="text" id="t3" name="t3">
+
+<input type="button" value="click me" onclick="display();">
+result:<span id="tot"></span>
+</body>
+</html>
