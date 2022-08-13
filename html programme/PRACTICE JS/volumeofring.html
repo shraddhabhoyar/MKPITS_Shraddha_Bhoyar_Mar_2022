@@ -1,0 +1,27 @@
+<html>
+<head>
+<script>
+function display()
+{
+var rad= parseInt(document.getElementById("t1").value);
+var rad1= parseInt(document.getElementById("t2").value);
+
+var result=2*3.14*3.14*rad*rad*rad1;
+var r=document.getElementById("res");
+r.innerText=result;
+}
+</script>
+</head>
+<body>
+<h1 align=center > mkpits solutions </h1>
+<br>
+<form>
+rad: <input type =text name="t1" id="t1" /> <br><br>
+rad1: <input type =text name="t2" id="t2" /> <br><br>
+<input type=button value="call display function" onclick="display();" />
+<br><br>
+volume of ring: <span id="res" > </span>
+</form>
+</body>
+</html>
+
