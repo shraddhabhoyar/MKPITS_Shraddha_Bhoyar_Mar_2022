@@ -1,0 +1,46 @@
+<html>
+<script>
+function display()
+{
+var a=parseInt(document.getElementById("sal").value);
+var b= document.getElementById("des").value;
+alert(b);
+ switch(b)
+ {
+ case "manager":
+ result=a+5000;
+ break;
+
+ case "clerk":
+ result=a+2000;
+ break;
+ 
+case 'peon':
+ result=a+1000;
+ break;
+ 
+ default:
+ result="it is not an emply";
+ break;
+ }
+ 
+document.getElementById("r1").innerText=result;
+}
+
+</script>
+<body>
+<form>
+<fieldset>
+<legend>calculation</legend>
+
+EMPLOYEE NAME:<input type="text" id="name" name="name">
+TOTALSALARY:<input type="text" id="sal" name="name">
+DESIGNATION:<input type="text" id="des" name="name">
+
+<input type=button value="result" onclick="display();"/> 
+TOTAL SALARY:<span id="r1"></span>
+</fieldset>
+</form>
+</body>
+</html>
+	
