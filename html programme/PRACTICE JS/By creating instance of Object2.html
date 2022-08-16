@@ -1,0 +1,28 @@
+<script>
+function display()
+{
+
+var emp=new Object();
+emp.id=document.getElementById("t1").value;
+emp.name=document.getElementById("t2").value;
+emp.salary=document.getElementById("t3").value;
+ 
+ document.getElementById("s1").innerHTML=emp.id;
+ document.getElementById("s2").innerHTML=emp.name;
+ 
+ document.getElementById("s3").innerHTML=emp.salary;
+ }
+ </script>
+ <body>
+ emp id:<input type="text" id="t1">
+ emp name :<input type="text" id="t2">
+ emp salary:<input type="text" id="t3">
+ <input type="button" value="click me" onclick="display();">
+ emp id:<span id="s1"></span>
+  emp name:<span id="s2"></span>
+
+ emp salary:<span id="s3"></span>
+ </body>
+ 
+
+ 
