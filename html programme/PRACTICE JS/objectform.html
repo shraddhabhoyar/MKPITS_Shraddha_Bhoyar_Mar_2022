@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<script>
+function display(m1,m2,m3)
+{
+emp={id:m1,name:m2,salary:m3}
+document.getElementById("s1").innerHTML=emp.id;
+document.getElementById("s2").innerHTML=emp.name;
+document.getElementById("s3").innerHTML=emp.salary;
+}
+</script>
+<body>
+<form name="f1">
+enter  id:<input type="text" name="t1">
+enter emp name:<input type="text" name="t2">
+enter salary:<input type="text" name="t3">
+
+<input type="button" value="click me" onclick="display(document.f1.t1.value,document.f1.t2.value,document.f1.t3.value);">
+enter id:<span id="s1"></span>
+enter emp name:<span id="s2"></span>
+enter salary:<span id="s3"></span>
+</form>
+</body>
+</html>
+ 
+
