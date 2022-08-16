@@ -1,15 +1,17 @@
 
+
+
 <html>
 <script>
-function lowerCase()
+function upperCase()
 {
 const x = document.getElementById("t1");
-x.value=x.value.toLowerCase();
+x.value=x.value.toUpperCase();
 }
 </script>
 <body>
 <h2>JavaScript HTML Events</h2>
-Enter your name: <input type="text" id="t1" onchange="lowerCase();">
+Enter your name: <input type="text" id="t1" onchange="upperCase();">
 <p>When you leave the input field, a function is triggered which transforms the input text to upper case.</p>
 </body>
 </html>
