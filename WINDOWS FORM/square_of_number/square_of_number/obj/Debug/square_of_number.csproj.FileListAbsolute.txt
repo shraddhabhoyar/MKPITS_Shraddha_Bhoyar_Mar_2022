@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\square_of_number\square_of_number\bin\Debug\square_of_number.exe.config
+E:\WINDOWS FORMS\square_of_number\square_of_number\bin\Debug\square_of_number.exe
+E:\WINDOWS FORMS\square_of_number\square_of_number\bin\Debug\square_of_number.pdb
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.Form1.resources
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.Properties.Resources.resources
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.exe
+E:\WINDOWS FORMS\square_of_number\square_of_number\obj\Debug\square_of_number.pdb
