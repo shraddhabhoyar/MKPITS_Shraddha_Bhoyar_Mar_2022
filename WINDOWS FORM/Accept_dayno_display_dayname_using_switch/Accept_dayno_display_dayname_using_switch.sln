@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accept_dayno_display_dayname_using_switch", "Accept_dayno_display_dayname_using_switch\Accept_dayno_display_dayname_using_switch.csproj", "{4A2B132A-B976-447C-8CE9-7144B7A70315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2B132A-B976-447C-8CE9-7144B7A70315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2B132A-B976-447C-8CE9-7144B7A70315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2B132A-B976-447C-8CE9-7144B7A70315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2B132A-B976-447C-8CE9-7144B7A70315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8C9942-CD7E-4C9A-907D-8D1BA215A671}
+	EndGlobalSection
+EndGlobal
