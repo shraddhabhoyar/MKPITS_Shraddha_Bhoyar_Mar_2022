@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accept_age_display_minor_young_old", "Accept_age_display_minor_young_old\Accept_age_display_minor_young_old.csproj", "{C7D25480-99B5-4029-8A79-9AFC2FCC1F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D25480-99B5-4029-8A79-9AFC2FCC1F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D25480-99B5-4029-8A79-9AFC2FCC1F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D25480-99B5-4029-8A79-9AFC2FCC1F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D25480-99B5-4029-8A79-9AFC2FCC1F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0144D29-25A4-4CAA-9E95-5CE2294E3CB7}
+	EndGlobalSection
+EndGlobal
