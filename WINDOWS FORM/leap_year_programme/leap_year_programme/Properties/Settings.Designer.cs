@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Accept_2_no_display_greater_no.Properties
+namespace leap_year_programme.Properties
 {
 
 

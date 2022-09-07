@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Accept_2_no_display_greater_no")]
+[assembly: AssemblyTitle("leap_year_programme")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Accept_2_no_display_greater_no")]
+[assembly: AssemblyProduct("leap_year_programme")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("75a80fb1-d799-46b5-9629-b20520ca9504")]
+[assembly: Guid("5f79905a-db47-4b18-8d72-22769abdb439")]
 
 // Version information for an assembly consists of the following four values:
 //

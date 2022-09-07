@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{75A80FB1-D799-46B5-9629-B20520CA9504}</ProjectGuid>
+    <ProjectGuid>{5F79905A-DB47-4B18-8D72-22769ABDB439}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Accept_2_no_display_greater_no</RootNamespace>
-    <AssemblyName>Accept_2_no_display_greater_no</AssemblyName>
+    <RootNamespace>leap_year_programme</RootNamespace>
+    <AssemblyName>leap_year_programme</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Accept_2_no_display_greater_no
+namespace leap_year_programme
 {
     public partial class Form1 : Form
     {
@@ -19,18 +19,16 @@ namespace Accept_2_no_display_greater_no
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int n1 = Convert.ToInt32(textBox1.Text);
-            int n2 = Convert.ToInt32(textBox2.Text);
-            
-            if(n1>n2)
+            int year;
+            year = Convert.ToInt32(textBox1.Text);
+            if(year%4==0)
             {
-                label3.Text = "Number1 is greater number";
+                label2.Text = year + "is leap year";
             }
             else
             {
-                label3.Text = "Number2 is greater number";
+                label2.Text = year + "is not a leap year";
             }
-
         }
     }
 }

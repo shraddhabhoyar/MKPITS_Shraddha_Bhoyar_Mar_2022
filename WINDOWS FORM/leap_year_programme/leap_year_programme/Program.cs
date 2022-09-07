@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Accept_2_no_display_greater_no
+namespace leap_year_programme
 {
     internal static class Program
     {
