@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\bin\Debug\monthcalender_control.exe.config
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\bin\Debug\monthcalender_control.exe
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\bin\Debug\monthcalender_control.pdb
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.Form1.resources
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.Properties.Resources.resources
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.exe
+E:\WINDOWS FORMS\monthcalender_control\monthcalender_control\obj\Debug\monthcalender_control.pdb
