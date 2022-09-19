@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\bin\Debug\numericupdown_control.exe.config
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\bin\Debug\numericupdown_control.exe
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\bin\Debug\numericupdown_control.pdb
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.Form1.resources
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.Properties.Resources.resources
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.exe
+E:\WINDOWS FORMS\numericupdown_control\numericupdown_control\obj\Debug\numericupdown_control.pdb
