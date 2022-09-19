@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\bin\Debug\masked_textbox.exe.config
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\bin\Debug\masked_textbox.exe
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\bin\Debug\masked_textbox.pdb
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.Form1.resources
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.Properties.Resources.resources
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.exe
+E:\WINDOWS FORMS\masked_textbox\masked_textbox\obj\Debug\masked_textbox.pdb
