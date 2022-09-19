@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\bin\Debug\year,age,current year,diff,datetimepicker.exe.config
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\bin\Debug\year,age,current year,diff,datetimepicker.exe
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\bin\Debug\year,age,current year,diff,datetimepicker.pdb
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year,age,current year,diff,datetimepicker.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year,age,current year,diff,datetimepicker.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year_age_current_year_diff_datetimepicker.Form1.resources
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year_age_current_year_diff_datetimepicker.Properties.Resources.resources
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year,age,current year,diff,datetimepicker.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year,age,current year,diff,datetimepicker.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year,age,current year,diff,datetimepicker.exe
+E:\WINDOWS FORMS\year,age,current year,diff,datetimepicker\year,age,current year,diff,datetimepicker\obj\Debug\year,age,current year,diff,datetimepicker.pdb
