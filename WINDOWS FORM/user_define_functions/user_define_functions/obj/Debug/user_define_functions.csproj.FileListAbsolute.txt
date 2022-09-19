@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\bin\Debug\user_define_functions.exe.config
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\bin\Debug\user_define_functions.exe
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\bin\Debug\user_define_functions.pdb
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.Form1.resources
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.Properties.Resources.resources
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.exe
+E:\WINDOWS FORMS\user_define_functions\user_define_functions\obj\Debug\user_define_functions.pdb
