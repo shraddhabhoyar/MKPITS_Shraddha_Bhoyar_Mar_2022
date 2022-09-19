@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\bin\Debug\windows_form_checkbox.exe.config
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\bin\Debug\windows_form_checkbox.exe
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\bin\Debug\windows_form_checkbox.pdb
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.Form1.resources
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.Properties.Resources.resources
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.exe
+E:\WINDOWS FORMS\windows_form_checkbox\windows_form_checkbox\obj\Debug\windows_form_checkbox.pdb
