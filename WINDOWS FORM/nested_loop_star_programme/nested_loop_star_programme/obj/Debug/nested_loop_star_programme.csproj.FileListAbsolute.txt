@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\bin\Debug\nested_loop_star_programme.exe.config
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\bin\Debug\nested_loop_star_programme.exe
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\bin\Debug\nested_loop_star_programme.pdb
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.Form1.resources
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.Properties.Resources.resources
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.exe
+E:\WINDOWS FORMS\nested_loop_star_programme\nested_loop_star_programme\obj\Debug\nested_loop_star_programme.pdb
