@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\bin\Debug\date_time_picker_control.exe.config
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\bin\Debug\date_time_picker_control.exe
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\bin\Debug\date_time_picker_control.pdb
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.Form1.resources
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.Properties.Resources.resources
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.exe
+E:\WINDOWS FORMS\date_time_picker_control\date_time_picker_control\obj\Debug\date_time_picker_control.pdb
