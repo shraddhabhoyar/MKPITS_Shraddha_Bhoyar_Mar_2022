@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\bin\Debug\nested_loop_numbers.exe.config
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\bin\Debug\nested_loop_numbers.exe
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\bin\Debug\nested_loop_numbers.pdb
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.Form1.resources
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.Properties.Resources.resources
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.exe
+E:\WINDOWS FORMS\nested_loop_numbers\nested_loop_numbers\obj\Debug\nested_loop_numbers.pdb
