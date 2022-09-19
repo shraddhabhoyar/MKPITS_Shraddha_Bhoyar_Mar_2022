@@ -1,0 +1,11 @@
+E:\WINDOWS FORMS\calculator_new\calculator_new\bin\Debug\calculator_new.exe.config
+E:\WINDOWS FORMS\calculator_new\calculator_new\bin\Debug\calculator_new.exe
+E:\WINDOWS FORMS\calculator_new\calculator_new\bin\Debug\calculator_new.pdb
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.csproj.AssemblyReference.cache
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.csproj.SuggestedBindingRedirects.cache
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.Form1.resources
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.Properties.Resources.resources
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.csproj.GenerateResource.cache
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.csproj.CoreCompileInputs.cache
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.exe
+E:\WINDOWS FORMS\calculator_new\calculator_new\obj\Debug\calculator_new.pdb
