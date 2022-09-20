@@ -1,0 +1,12 @@
+create table stu(cid int,cname varchar(20),cadd varchar(40))
+insert into stu values(112,'vipin','nandanvan')
+insert into stu values(113,'kumar','wadi')
+insert into stu values(114,'shrwan','shantinagar')
+insert into stu values(115,'lucky','bharat nagar')
+insert into stu values(116,'ganesha','manish nagar')
+insert into stu values(117,'khushal','besa')
+insert into stu values(118,'shakib','beltarodi')
+insert into stu values(119,'rahim','saoner')
+insert into stu values(120,'pintukumar','itwari')
+insert into stu values(121,'kiran','mahal')
+select * from stu where cid>109 and cname='kumar'
