@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "creating_and_using_classes_wf_bank_example", "creating_and_using_classes_wf_bank_example\creating_and_using_classes_wf_bank_example.csproj", "{E562D9ED-1BAA-4896-B7D3-C52E9DBE671E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E562D9ED-1BAA-4896-B7D3-C52E9DBE671E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E562D9ED-1BAA-4896-B7D3-C52E9DBE671E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E562D9ED-1BAA-4896-B7D3-C52E9DBE671E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E562D9ED-1BAA-4896-B7D3-C52E9DBE671E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F386758-DCCD-4427-9E73-CEA6AC0CD1BF}
+	EndGlobalSection
+EndGlobal
